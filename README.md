@@ -34,10 +34,9 @@ It includes training, evaluation, and prediction based on real-world-like data.
 **Technologies used**: `scikit-learn`, `pandas`, `joblib`, `data preprocessing`
 
 ---
+### 🌱 Learning Outcomes
 
-###🌱 Learning Outcomes
-Python syntax and object-oriented programming
-
+- Python syntax and object-oriented programming
 - Web development with Flask
 - Database interaction and automation
 - Exploratory data analysis and visualization
